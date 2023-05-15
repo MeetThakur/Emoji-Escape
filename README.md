@@ -11,3 +11,5 @@ Description:
 ✔ Along your journey, keep an eye out for power-ups strategically scattered throughout. These power-ups can provide a temporary advantage, enhancing your abilities and helping you overcome the ever-growing threat. activate a shield to become invincible, creating a momentary reprieve in the intense pursuit.
 
 ✔ Demonstrate your skills as you strive for the highest score possible.
+
+itch.io link - https://void-gamez.itch.io/emoji-escape
